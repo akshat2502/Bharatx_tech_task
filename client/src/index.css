@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/index.css */
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  font-family: sans-serif;
+}
