@@ -1,17 +1,16 @@
 # Bharatx_tech_task
 
--> Step into the frontend directory
-cd client
+-> Step into the frontend directory-  cd client
 
--> Install all dependencies
+-> Install all dependencies -
 npm install
 
 -> Start the Vite development server
-npm run dev
+- npm run dev
 
 Once started, the frontend will be live at:
 
-📍 http://localhost:5173
+ 📍 http://localhost:5173
 
 Open this URL in your browser to interact with the UI.
 
