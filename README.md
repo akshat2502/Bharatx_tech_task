@@ -1,6 +1,6 @@
 # Bharatx_tech_task
 
-ow to Test the Query
+How to Test the Query
 To test the required query:
 
 json
